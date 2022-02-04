@@ -1,6 +1,6 @@
 # React calculator App
 
-This is a basic calculator web application.
+This is a basic calculator web application created using react.
 
 ## Available Scripts
 
